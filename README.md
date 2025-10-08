@@ -26,13 +26,8 @@ Features: Market prices, EMA, RSI, ATR
 **
 Installation**
 
-Clone the repository:
 
-git clone https://github.com/YourUsername/real-time-forex-prediction-ml.git
-cd real-time-forex-prediction-ml
-
-**
-Install dependencies:**
+Install dependencies:
 
 pip install -r requirements.txt
 
